@@ -6,8 +6,17 @@ int main()
 	return 0;
 }
 
+void func1()
+{
+	return 1;
+}
 
-voit func3()
+void func2()
+{
+	return 2;
+}
+
+void func3()
 {
 	return 3;
 }
