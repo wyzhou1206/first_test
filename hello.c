@@ -10,3 +10,8 @@ void func1()
 {
 	return 1;
 }
+
+void func2()
+{
+	return 2;
+}
