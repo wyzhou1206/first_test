@@ -23,5 +23,6 @@ void func3()
 
 void func4()
 {
-	return 4;
+	printf("test for stash by zwy!");
+	return 5;
 }
