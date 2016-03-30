@@ -32,3 +32,8 @@ void func5()
 	printf("fix a bug by zwy!!!");
 	return 6;
 }
+void test_stash()
+{
+	printf("test for stash by zwy");
+	return 5;
+}
