@@ -20,3 +20,8 @@ void func3()
 {
 	return 3;
 }
+
+void func4()
+{
+	return 4;
+}
