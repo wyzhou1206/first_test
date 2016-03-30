@@ -20,3 +20,9 @@ void func3()
 {
 	return 3;
 }
+
+void func4()
+{
+	printf("test for stash by zwy!");
+	return 5;
+}
