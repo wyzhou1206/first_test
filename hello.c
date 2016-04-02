@@ -47,3 +47,7 @@ void test_fun()
 	printf("测试远程分支，团队合作\n");
 	return 0;
 }
+void bugfix_test()
+{
+	return bugfix;
+}
