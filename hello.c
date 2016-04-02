@@ -37,3 +37,13 @@ void test_stash()
 	printf("test for stash by zwy");
 	return 5;
 }
+
+void test_remote_dev()
+{
+	printf("test for remote by first dev");
+}
+void test_fun()
+{
+	printf("测试远程分支，团队合作\n");
+	return 0;
+}
